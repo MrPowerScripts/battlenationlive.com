@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "NotoColorEmoji";
+    src: local(NotoColorEmoji),
+        url("#{$emoji-font-path}NotoColorEmoji.ttf") format("woff2");
+
+    font-weight: 100;
+}

@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Take the mic and be the star. Emoji votes will decide your fate. Are you 🔥 or 💩?
