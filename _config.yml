@@ -11,3 +11,6 @@ google_analytics: UA-116668768-1
 
 sass:
     style: compressed
+
+plugins:
+  - jekyll-sitemap
